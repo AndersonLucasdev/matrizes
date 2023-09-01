@@ -1,5 +1,3 @@
-# matrizes
-matrizes em python
 ## matriz
 lista = []
 linhas = int(input("Digite quantas linhas tem: "))
